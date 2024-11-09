@@ -9,3 +9,5 @@ Este proyecto utiliza una red neuronal convolucional (CNN) en TensorFlow y Keras
 3.	Buena Calidad
 
 El modelo fue entrenado y evaluado utilizando un conjunto de datos de aproximadamente 2000 imágenes, que incluye limones de buena calidad, de mala calidad y de fondo sin limón. Este proyecto busca ayudar en la clasificación automática de la calidad de los limones para mejorar la eficiencia y la precisión en tareas relacionadas con el procesamiento de frutas.
+
+El conjunto de datos se  obtivo de la siguiente página: https://www.kaggle.com/datasets/yusufemir/lemon-quality-dataset/data
