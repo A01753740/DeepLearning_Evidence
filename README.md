@@ -12,4 +12,4 @@ El modelo fue entrenado y evaluado utilizando un conjunto de datos de aproximada
 
 El conjunto de datos se  obtivo de la siguiente página: https://www.kaggle.com/datasets/yusufemir/lemon-quality-dataset/data
 
-**NOTA:** Debido a que el .keras del modelo es muy pesado y no puedo subirlo a GitHub, adjunto link de Drive: https://drive.google.com/file/d/1H5rc4Z4ZfUA7qx5Z6iJDpLK03L0_PyqU/view?usp=sharing
+**NOTA:** Debido a que el .keras del modelo es muy pesado y no puedo subirlo a GitHub, adjunto link de Drive: https://drive.google.com/file/d/1KnceKiVJTFWkGjjvTKgXmlMYhzLZAYV7/view?usp=sharing
